@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @carlotaroyoruiz
+- 👀 I’m interested in Maths, Statistics, Data Analytics and Machine Learning
+- 🌱 I’m currently learning Python and Finance
+- 📫 How to reach me: carlotaroyoruiz@gmail.com 
